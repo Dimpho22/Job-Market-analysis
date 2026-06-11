@@ -1,6 +1,6 @@
 Job Market Analysis: Web Scraping and SQL Analytics
 Project Overview
-This project demonstrates an end-to-end data analytics workflow, beginning with web scraping and ending with database analysis. Job listing data was collected from a public website using Python, cleaned and transformed using Pandas, stored in SQL Server, and analysed using SQL queries to identify hiring patterns and trends.________________________________________
+This project demonstrates an end-to-end data analytics workflow, beginning with web scraping and ending with database analysis. Job listing data was collected from a public website using Python, cleaned and transformed using Pandas, stored in SQL Server, and analysed using SQL queries to identify hiring patterns and trends.
 Objectives
 Collect job market data using web scraping techniques
 Clean and structure raw data for analysis
